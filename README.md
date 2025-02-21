@@ -45,5 +45,5 @@ You can try out the TalkItOut application by visiting the deployment link below:
 
 Thank you for using TalkItOut! We hope you enjoy connecting with friends and sharing your moments.
 
-For any queries, please contact [AdiRocks007](https://github.com/AdiRocks007).
+For any queries, please contact [shourya0-0]([https://github.com/AdiRocks007](https://github.com/shourya0-0)).
 # TalkItOut
